@@ -29,7 +29,7 @@ Then begin the installation process:
 
 1. Install `` yum-utils`` package:
 bash 
-$ sudo yum install -y yum-utils 
+sudo yum install -y yum-utils 
 
 
 2. Add docker-ce.repo repository to download Docker:
