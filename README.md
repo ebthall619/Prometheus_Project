@@ -28,19 +28,19 @@ $ sudo yum remove docker \
 Then begin the installation process:
 
 1. Install `` yum-utils`` package:
-bash 
+bash
 sudo yum install -y yum-utils 
 
 
-2. Add docker-ce.repo repository to download Docker:
+3. Add docker-ce.repo repository to download Docker:
 bash 
 $ sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo 
 
-3. Installing Docker packages:
+4. Installing Docker packages:
 bash 
 $ sudo yum install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin 
 
-4. Enabling Docker service:
+5. Enabling Docker service:
 bash 
 $ sudo systemctl enable --now docker
 
