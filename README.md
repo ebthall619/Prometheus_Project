@@ -1,5 +1,5 @@
 # Prometheus_Project
-Monitoring a Kubernetes Cluster Using Prometheus
+# Monitoring a Kubernetes Cluster Using Prometheus
 Monitoring a Kubernetes cluster is essential for ensuring the stability, performance, and health of containerized applications running in a dynamic environment. Prometheus, a popular open-source monitoring and alerting toolkit, provides powerful capabilities for collecting, querying, and visualizing metrics from Kubernetes clusters. By integrating Prometheus with Kubernetes, you gain insights into resource utilization, application performance, and infrastructure health, enabling proactive management and timely response to issues.
 
 ## Prerequisites
@@ -121,8 +121,6 @@ kubectl expose service prometheus-server — type=NodePort — target-port=9090 
 6.Open Web App of Prometheus
 bash
 minikube service prometheus-server-ext
-
-
 
 ### Deploy Grafana
 
