@@ -162,4 +162,6 @@ In conclusion, implementing Prometheus for monitoring a Kubernetes cluster provi
 ![K8Scluster](https://github.com/ebthall619/Prometheus_Project/assets/81996620/4311199a-2890-4b79-b756-7541f955021d)
 ![k8s2](https://github.com/ebthall619/Prometheus_Project/assets/81996620/85cab3f6-e3d5-4c5a-8af1-0025715c9079)
 ![k83](https://github.com/ebthall619/Prometheus_Project/assets/81996620/df71eddc-32d3-416e-a1db-f7b662e2d134)
+![WhatsApp Image 2024-05-03 at 3 11 47 PM](https://github.com/ebthall619/Prometheus_Project/assets/81996620/737bc17b-d11e-4a1b-8b59-cb491ccfaf58)
+
 
