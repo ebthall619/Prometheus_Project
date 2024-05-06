@@ -161,7 +161,7 @@ helm repo update
 ```bash
 kubectl expose service grafana — type=NodePort — target-port=3000 — name=grafana-ext
 ```
-3.Open Grafana Web APP
+4.Open Grafana Web APP
 
 ```bash
 minikube service grafana-ext
