@@ -9,8 +9,6 @@ Monitoring a Kubernetes cluster is essential for ensuring the stability, perform
 - Prometheus
 - Grafana
 
-## Installation
-
 ## Docker Installation
 
 First you have to uninstall old versions. 
