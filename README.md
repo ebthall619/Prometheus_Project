@@ -172,8 +172,7 @@ minikube service grafana-ext
 ## Get Grafana Credintials
 
 ```bash
-kubectl get secret --namespace default grafa
-na -o jsonpath="{.data.admin-password}" | base64 --decode ; echo
+kubectl get secret --namespace default grafana -o jsonpath="{.data.admin-password}" | base64 --decode ; echo
 ```
 ### Conclusion
 
